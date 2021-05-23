@@ -1,0 +1,5 @@
+{
+    "git.autofetch": true,
+    "python.defaultInterpreterPath": "/usr/local/Caskroom/miniconda/base/envs/DJ/bin/python",
+    "git.path": "/usr/local/Caskroom/miniconda/base/bin/git"
+}
